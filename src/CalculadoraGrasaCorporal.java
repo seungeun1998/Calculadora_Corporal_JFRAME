@@ -131,4 +131,9 @@ public class CalculadoraGrasaCorporal extends JFrame {
 		});
 	
 	}
+	
+	public int suma(int uno, int dos) {
+		int result=uno+dos;
+		return result;
+	}
 }
